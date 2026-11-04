@@ -21,7 +21,7 @@
         "containers": [
           {
             "name": "beacon",
-            "image": "beacon-service:latest",
+            "image": "beacon-service:v2.3.1",
             "ports": [
               {
                 "containerPort": 8080
